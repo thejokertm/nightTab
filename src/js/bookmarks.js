@@ -405,7 +405,7 @@ var bookmarks = (function() {
           icon: {
             size: 3,
             name: "google-drive",
-            prefix: "fa",
+            prefix: "fab",
             label: "GoogleDrive"
           },
           shadow: {
