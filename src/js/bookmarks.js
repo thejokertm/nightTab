@@ -330,9 +330,9 @@ var bookmarks = (function() {
           },
           icon: {
             size: 3,
-            name: "",
-            prefix: "",
-            label: ""
+            name: "google-drive",
+            prefix: "fa",
+            label: "GoogleDrive"
           },
           shadow: {
             size: 0
