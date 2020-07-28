@@ -214,7 +214,7 @@ var state = (function() {
               size: 3
             },
             icon: {
-              size: 3
+              size: 4
             },
             image: {
               size: 3
@@ -225,7 +225,7 @@ var state = (function() {
           },
           name: {
             show: true,
-            size: 0.9
+            size: 1.1
           },
           gutter: 2,
           direction: "vertical",
@@ -250,7 +250,7 @@ var state = (function() {
           show: true
         },
         newTab: false,
-        size: 80,
+        size: 0.8,
         border: 0
       },
       show: true,
