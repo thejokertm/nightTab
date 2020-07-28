@@ -269,7 +269,7 @@ var state = (function() {
         size: 1
       },
       openAll: {
-        show: true,
+        show: false,
         size: 1,
         opacity: 1
       },
