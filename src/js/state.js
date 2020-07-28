@@ -250,7 +250,7 @@ var state = (function() {
           show: true
         },
         newTab: false,
-        size: 1,
+        size: 80,
         border: 0
       },
       show: true,
@@ -483,7 +483,7 @@ var state = (function() {
             y: 0
           }
         },
-        size: 80,
+        size: 1,
         border: 0
       }
     },
