@@ -84,7 +84,81 @@ var bookmarks = (function() {
       tall: false,
       searchMatch: false,
       timeStamp: 1546453107633
-    }, {
+    }, { 
+      display: {
+        direction: "vertical",
+        order: "visualname",
+        alignment: "centercenter",
+        gutter: 2,
+        rotate: 0,
+        translate: {
+          x: 0,
+          y: 0
+        },
+        visual: {
+          show: true,
+          type: "icon",
+          letter: {
+            size: 3,
+            text: "NOT"
+          },
+          image: {
+            size: 3,
+            url: ""
+          },
+          icon: {
+            size: 3,
+            name: "sticky-note",
+            prefix: "fas",
+            label: "StickyNote"
+          },
+          shadow: {
+            size: 0
+          }
+        },
+        name: {
+          show: true,
+          text: "Notion",
+          size: 0.9
+        }
+      },
+      url: "https://www.notion.so/",
+      accent: {
+        by: "theme",
+        hsl: {
+          h: 0,
+          s: 0,
+          l: 0
+        },
+        rgb: {
+          r: 0,
+          g: 0,
+          b: 0
+        }
+      },
+      color: {
+        by: "theme",
+        hsl: {
+          h: 0,
+          s: 0,
+          l: 0
+        },
+        rgb: {
+          r: 0,
+          g: 0,
+          b: 0
+        },
+        opacity: 1
+      },
+      image: {
+        url: "",
+        opacity: 1
+      },
+      wide: false,
+      tall: false,
+      searchMatch: false,
+      timeStamp: 1546453107633
+    },{
       display: {
         direction: "vertical",
         order: "visualname",
@@ -650,6 +724,80 @@ var bookmarks = (function() {
         }
       },
       url: "https://www.netlify.com/",
+      accent: {
+        by: "theme",
+        hsl: {
+          h: 0,
+          s: 0,
+          l: 0
+        },
+        rgb: {
+          r: 0,
+          g: 0,
+          b: 0
+        }
+      },
+      color: {
+        by: "theme",
+        hsl: {
+          h: 0,
+          s: 0,
+          l: 0
+        },
+        rgb: {
+          r: 0,
+          g: 0,
+          b: 0
+        },
+        opacity: 1
+      },
+      image: {
+        url: "",
+        opacity: 1
+      },
+      wide: false,
+      tall: false,
+      searchMatch: false,
+      timeStamp: 1546453108926
+    }, {
+      display: {
+        direction: "vertical",
+        order: "visualname",
+        alignment: "centercenter",
+        gutter: 2,
+        rotate: 0,
+        translate: {
+          x: 0,
+          y: 0
+        },
+        visual: {
+          show: true,
+          type: "icon",
+          letter: {
+            size: 3,
+            text: "BIT"
+          },
+          image: {
+            size: 3,
+            url: ""
+          },
+          icon: {
+            size: 3,
+            name: "shield-alt",
+            prefix: "fas",
+            label: "ShieldAlt"
+          },
+          shadow: {
+            size: 0
+          }
+        },
+        name: {
+          show: true,
+          text: "Bitwarden",
+          size: 0.9
+        }
+      },
+      url: "https://vault.bitwarden.com/",
       accent: {
         by: "theme",
         hsl: {
