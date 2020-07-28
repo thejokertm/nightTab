@@ -4,7 +4,7 @@ var bookmarks = (function() {
 
   mod.all = [{
     name: {
-      text: "Cool stuff",
+      text: "Apps",
       show: true
     },
     openAll: {
@@ -24,80 +24,6 @@ var bookmarks = (function() {
         visual: {
           show: true,
           type: "icon",
-          letter: {
-            size: 3,
-            text: "AS"
-          },
-          image: {
-            size: 3,
-            url: ""
-          },
-          icon: {
-            size: 3,
-            name: "dice-d20",
-            prefix: "fas",
-            label: "Dice D20"
-          },
-          shadow: {
-            size: 0
-          }
-        },
-        name: {
-          show: true,
-          text: "awesomeSheet",
-          size: 0.9
-        }
-      },
-      url: "https://zombiefox.github.io/awesomeSheet/",
-      accent: {
-        by: "theme",
-        hsl: {
-          h: 0,
-          s: 0,
-          l: 0
-        },
-        rgb: {
-          r: 0,
-          g: 0,
-          b: 0
-        }
-      },
-      color: {
-        by: "theme",
-        hsl: {
-          h: 0,
-          s: 0,
-          l: 0
-        },
-        rgb: {
-          r: 0,
-          g: 0,
-          b: 0
-        },
-        opacity: 1
-      },
-      image: {
-        url: "",
-        opacity: 1
-      },
-      wide: false,
-      tall: false,
-      searchMatch: false,
-      timeStamp: 1546453104010
-    }, {
-      display: {
-        direction: "vertical",
-        order: "visualname",
-        alignment: "centercenter",
-        gutter: 2,
-        rotate: 0,
-        translate: {
-          x: 0,
-          y: 0
-        },
-        visual: {
-          show: true,
-          type: "letter",
           letter: {
             size: 3,
             text: "AZ"
@@ -122,7 +48,7 @@ var bookmarks = (function() {
           size: 0.9
         }
       },
-      url: "https://www.amazon.co.uk/",
+      url: "https://www.amazon.de/",
       accent: {
         by: "theme",
         hsl: {
@@ -171,7 +97,7 @@ var bookmarks = (function() {
         },
         visual: {
           show: true,
-          type: "letter",
+          type: "icon",
           letter: {
             size: 3,
             text: "GM"
@@ -393,7 +319,7 @@ var bookmarks = (function() {
         },
         visual: {
           show: true,
-          type: "letter",
+          type: "icon",
           letter: {
             size: 3,
             text: "DR"
@@ -457,7 +383,7 @@ var bookmarks = (function() {
     }]
   }, {
     name: {
-      text: "Dev sites",
+      text: "Admin",
       show: true
     },
     openAll: {
@@ -576,6 +502,80 @@ var bookmarks = (function() {
         }
       },
       url: "https://github.com/",
+      accent: {
+        by: "theme",
+        hsl: {
+          h: 0,
+          s: 0,
+          l: 0
+        },
+        rgb: {
+          r: 0,
+          g: 0,
+          b: 0
+        }
+      },
+      color: {
+        by: "theme",
+        hsl: {
+          h: 0,
+          s: 0,
+          l: 0
+        },
+        rgb: {
+          r: 0,
+          g: 0,
+          b: 0
+        },
+        opacity: 1
+      },
+      image: {
+        url: "",
+        opacity: 1
+      },
+      wide: false,
+      tall: false,
+      searchMatch: false,
+      timeStamp: 1546453108926
+    }, {
+      display: {
+        direction: "vertical",
+        order: "visualname",
+        alignment: "centercenter",
+        gutter: 2,
+        rotate: 0,
+        translate: {
+          x: 0,
+          y: 0
+        },
+        visual: {
+          show: true,
+          type: "icon",
+          letter: {
+            size: 3,
+            text: "NET"
+          },
+          image: {
+            size: 3,
+            url: ""
+          },
+          icon: {
+            size: 3,
+            name: "server",
+            prefix: "fa",
+            label: "Server"
+          },
+          shadow: {
+            size: 0
+          }
+        },
+        name: {
+          show: true,
+          text: "Netlify",
+          size: 0.9
+        }
+      },
+      url: "https://www.netlify.com/",
       accent: {
         by: "theme",
         hsl: {
