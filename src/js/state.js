@@ -483,7 +483,7 @@ var state = (function() {
             y: 0
           }
         },
-        size: 1,
+        size: 80,
         border: 0
       }
     },
