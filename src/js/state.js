@@ -88,7 +88,7 @@ var state = (function() {
           by: "auto",
           size: 30
         },
-        focus: false,
+        focus: true,
         engine: {
           selected: "google",
           google: {
