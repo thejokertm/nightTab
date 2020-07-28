@@ -322,80 +322,6 @@ var bookmarks = (function() {
           type: "icon",
           letter: {
             size: 3,
-            text: "R"
-          },
-          image: {
-            size: 3,
-            url: ""
-          },
-          icon: {
-            size: 3,
-            name: "reddit-alien",
-            prefix: "fab",
-            label: "reddit Alien"
-          },
-          shadow: {
-            size: 0
-          }
-        },
-        name: {
-          show: true,
-          text: "Reddit",
-          size: 0.9
-        }
-      },
-      url: "https://www.reddit.com/",
-      accent: {
-        by: "theme",
-        hsl: {
-          h: 0,
-          s: 0,
-          l: 0
-        },
-        rgb: {
-          r: 0,
-          g: 0,
-          b: 0
-        }
-      },
-      color: {
-        by: "theme",
-        hsl: {
-          h: 0,
-          s: 0,
-          l: 0
-        },
-        rgb: {
-          r: 0,
-          g: 0,
-          b: 0
-        },
-        opacity: 1
-      },
-      image: {
-        url: "",
-        opacity: 1
-      },
-      wide: false,
-      tall: false,
-      searchMatch: false,
-      timeStamp: 1546453111491
-    }, {
-      display: {
-        direction: "vertical",
-        order: "visualname",
-        alignment: "centercenter",
-        gutter: 2,
-        rotate: 0,
-        translate: {
-          x: 0,
-          y: 0
-        },
-        visual: {
-          show: true,
-          type: "icon",
-          letter: {
-            size: 3,
             text: "N"
           },
           image: {
@@ -981,6 +907,237 @@ var bookmarks = (function() {
       tall: false,
       searchMatch: false,
       timeStamp: 1546453108926
+    }]
+  }, {
+    name: {
+      text: "Social",
+      show: true
+    },
+    openAll: {
+      show: true
+    },
+    items: [{
+      display: {
+        direction: "vertical",
+        order: "visualname",
+        alignment: "centercenter",
+        gutter: 2,
+        rotate: 0,
+        translate: {
+          x: 0,
+          y: 0
+        },
+        visual: {
+          show: true,
+          type: "icon",
+          letter: {
+            size: 3,
+            text: "IN"
+          },
+          image: {
+            size: 3,
+            url: ""
+          },
+          icon: {
+            size: 3,
+            name: "linkedin-in",
+            prefix: "fab",
+            label: "LinkedinIn"
+          },
+          shadow: {
+            size: 0
+          }
+        },
+        name: {
+          show: true,
+          text: "LinkedIn",
+          size: 0.9
+        }
+      },
+      url: "https://www.linkedin.com/login/",
+      accent: {
+        by: "theme",
+        hsl: {
+          h: 0,
+          s: 0,
+          l: 0
+        },
+        rgb: {
+          r: 0,
+          g: 0,
+          b: 0
+        }
+      },
+      color: {
+        by: "theme",
+        hsl: {
+          h: 0,
+          s: 0,
+          l: 0
+        },
+        rgb: {
+          r: 0,
+          g: 0,
+          b: 0
+        },
+        opacity: 1
+      },
+      image: {
+        url: "",
+        opacity: 1
+      },
+      wide: false,
+      tall: false,
+      searchMatch: false,
+      timeStamp: 1546453101749
+    }, {
+      display: {
+        direction: "vertical",
+        order: "visualname",
+        alignment: "centercenter",
+        gutter: 2,
+        rotate: 0,
+        translate: {
+          x: 0,
+          y: 0
+        },
+        visual: {
+          show: true,
+          type: "icon",
+          letter: {
+            size: 3,
+            text: "INS"
+          },
+          image: {
+            size: 3,
+            url: ""
+          },
+          icon: {
+            size: 3,
+            name: "instagram",
+            prefix: "fab",
+            label: "Instagram"
+          },
+          shadow: {
+            size: 0
+          }
+        },
+        name: {
+          show: true,
+          text: "Instagram",
+          size: 0.9
+        }
+      },
+      url: "https://www.instagram.com/accounts/login/",
+      accent: {
+        by: "theme",
+        hsl: {
+          h: 0,
+          s: 0,
+          l: 0
+        },
+        rgb: {
+          r: 0,
+          g: 0,
+          b: 0
+        }
+      },
+      color: {
+        by: "theme",
+        hsl: {
+          h: 0,
+          s: 0,
+          l: 0
+        },
+        rgb: {
+          r: 0,
+          g: 0,
+          b: 0
+        },
+        opacity: 1
+      },
+      image: {
+        url: "",
+        opacity: 1
+      },
+      wide: false,
+      tall: false,
+      searchMatch: false,
+      timeStamp: 1546453108926
+    }, {
+      display: {
+        direction: "vertical",
+        order: "visualname",
+        alignment: "centercenter",
+        gutter: 2,
+        rotate: 0,
+        translate: {
+          x: 0,
+          y: 0
+        },
+        visual: {
+          show: true,
+          type: "icon",
+          letter: {
+            size: 3,
+            text: "R"
+          },
+          image: {
+            size: 3,
+            url: ""
+          },
+          icon: {
+            size: 3,
+            name: "reddit-alien",
+            prefix: "fab",
+            label: "reddit Alien"
+          },
+          shadow: {
+            size: 0
+          }
+        },
+        name: {
+          show: true,
+          text: "Reddit",
+          size: 0.9
+        }
+      },
+      url: "https://www.reddit.com/",
+      accent: {
+        by: "theme",
+        hsl: {
+          h: 0,
+          s: 0,
+          l: 0
+        },
+        rgb: {
+          r: 0,
+          g: 0,
+          b: 0
+        }
+      },
+      color: {
+        by: "theme",
+        hsl: {
+          h: 0,
+          s: 0,
+          l: 0
+        },
+        rgb: {
+          r: 0,
+          g: 0,
+          b: 0
+        },
+        opacity: 1
+      },
+      image: {
+        url: "",
+        opacity: 1
+      },
+      wide: false,
+      tall: false,
+      searchMatch: false,
+      timeStamp: 1546453111491
     }]
   }];
 
