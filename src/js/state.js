@@ -126,7 +126,7 @@ var state = (function() {
         newTab: false
       },
       editAdd: {
-        show: true,
+        show: false,
         size: 1,
         opacity: 1,
         newLine: false
@@ -135,7 +135,7 @@ var state = (function() {
         dot: {
           show: true
         },
-        show: true,
+        show: false,
         size: 1,
         opacity: 1,
         newLine: false
