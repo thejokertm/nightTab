@@ -248,7 +248,7 @@ var bookmarks = (function() {
           type: "icon",
           letter: {
             size: 3,
-            text: "AZ"
+            text: "DR"
           },
           image: {
             size: 3,
@@ -256,9 +256,9 @@ var bookmarks = (function() {
           },
           icon: {
             size: 3,
-            name: "amazon",
+            name: "google-drive",
             prefix: "fab",
-            label: "Amazon"
+            label: "GoogleDrive"
           },
           shadow: {
             size: 0
@@ -266,11 +266,11 @@ var bookmarks = (function() {
         },
         name: {
           show: true,
-          text: "Amazon",
+          text: "Drive",
           size: 0.9
         }
       },
-      url: "https://www.amazon.de/",
+      url: "https://drive.google.com/drive/",
       accent: {
         by: "theme",
         hsl: {
@@ -305,7 +305,7 @@ var bookmarks = (function() {
       wide: false,
       tall: false,
       searchMatch: false,
-      timeStamp: 1546453107633
+      timeStamp: 1546453111953
     }, {
       display: {
         direction: "vertical",
@@ -322,7 +322,7 @@ var bookmarks = (function() {
           type: "icon",
           letter: {
             size: 3,
-            text: "GM"
+            text: "CAL"
           },
           image: {
             size: 3,
@@ -330,9 +330,9 @@ var bookmarks = (function() {
           },
           icon: {
             size: 3,
-            name: "envelope",
-            prefix: "fas",
-            label: "Envelope"
+            name: "calendar",
+            prefix: "far",
+            label: "Calendar"
           },
           shadow: {
             size: 0
@@ -340,11 +340,11 @@ var bookmarks = (function() {
         },
         name: {
           show: true,
-          text: "Gmail",
+          text: "Calendar",
           size: 0.9
         }
       },
-      url: "https://mail.google.com/",
+      url: "https://calendar.google.com/",
       accent: {
         by: "theme",
         hsl: {
@@ -470,7 +470,7 @@ var bookmarks = (function() {
           type: "icon",
           letter: {
             size: 3,
-            text: "DR"
+            text: "AZ"
           },
           image: {
             size: 3,
@@ -478,9 +478,9 @@ var bookmarks = (function() {
           },
           icon: {
             size: 3,
-            name: "google-drive",
+            name: "amazon",
             prefix: "fab",
-            label: "GoogleDrive"
+            label: "Amazon"
           },
           shadow: {
             size: 0
@@ -488,11 +488,11 @@ var bookmarks = (function() {
         },
         name: {
           show: true,
-          text: "Drive",
+          text: "Amazon",
           size: 0.9
         }
       },
-      url: "https://drive.google.com/drive/",
+      url: "https://www.amazon.de/",
       accent: {
         by: "theme",
         hsl: {
@@ -527,7 +527,7 @@ var bookmarks = (function() {
       wide: false,
       tall: false,
       searchMatch: false,
-      timeStamp: 1546453111953
+      timeStamp: 1546453107633
     }]
   }, {
     name: {
@@ -1177,6 +1177,154 @@ var bookmarks = (function() {
         }
       },
       url: "https://www.reddit.com/",
+      accent: {
+        by: "theme",
+        hsl: {
+          h: 0,
+          s: 0,
+          l: 0
+        },
+        rgb: {
+          r: 0,
+          g: 0,
+          b: 0
+        }
+      },
+      color: {
+        by: "theme",
+        hsl: {
+          h: 0,
+          s: 0,
+          l: 0
+        },
+        rgb: {
+          r: 0,
+          g: 0,
+          b: 0
+        },
+        opacity: 1
+      },
+      image: {
+        url: "",
+        opacity: 1
+      },
+      wide: false,
+      tall: false,
+      searchMatch: false,
+      timeStamp: 1546453111491
+    }, {
+      display: {
+        direction: "vertical",
+        order: "visualname",
+        alignment: "centercenter",
+        gutter: 2,
+        rotate: 0,
+        translate: {
+          x: 0,
+          y: 0
+        },
+        visual: {
+          show: true,
+          type: "icon",
+          letter: {
+            size: 3,
+            text: "YT"
+          },
+          image: {
+            size: 3,
+            url: ""
+          },
+          icon: {
+            size: 3,
+            name: "youtube",
+            prefix: "fab",
+            label: "Youtube"
+          },
+          shadow: {
+            size: 0
+          }
+        },
+        name: {
+          show: true,
+          text: "Youtube",
+          size: 0.9
+        }
+      },
+      url: "https://www.youtube.com/",
+      accent: {
+        by: "theme",
+        hsl: {
+          h: 0,
+          s: 0,
+          l: 0
+        },
+        rgb: {
+          r: 0,
+          g: 0,
+          b: 0
+        }
+      },
+      color: {
+        by: "theme",
+        hsl: {
+          h: 0,
+          s: 0,
+          l: 0
+        },
+        rgb: {
+          r: 0,
+          g: 0,
+          b: 0
+        },
+        opacity: 1
+      },
+      image: {
+        url: "",
+        opacity: 1
+      },
+      wide: false,
+      tall: false,
+      searchMatch: false,
+      timeStamp: 1546453111491
+    }, {
+      display: {
+        direction: "vertical",
+        order: "visualname",
+        alignment: "centercenter",
+        gutter: 2,
+        rotate: 0,
+        translate: {
+          x: 0,
+          y: 0
+        },
+        visual: {
+          show: true,
+          type: "icon",
+          letter: {
+            size: 3,
+            text: "TW"
+          },
+          image: {
+            size: 3,
+            url: ""
+          },
+          icon: {
+            size: 3,
+            name: "twitter",
+            prefix: "fab",
+            label: "Twitter"
+          },
+          shadow: {
+            size: 0
+          }
+        },
+        name: {
+          show: true,
+          text: "Twitter",
+          size: 0.9
+        }
+      },
+      url: "https://www.twitter.com/",
       accent: {
         by: "theme",
         hsl: {
