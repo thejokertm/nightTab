@@ -84,6 +84,80 @@ var bookmarks = (function() {
       tall: false,
       searchMatch: false,
       timeStamp: 1546453107633
+    }, {
+      display: {
+        direction: "vertical",
+        order: "visualname",
+        alignment: "centercenter",
+        gutter: 2,
+        rotate: 0,
+        translate: {
+          x: 0,
+          y: 0
+        },
+        visual: {
+          show: true,
+          type: "icon",
+          letter: {
+            size: 3,
+            text: "CLO"
+          },
+          image: {
+            size: 3,
+            url: ""
+          },
+          icon: {
+            size: 3,
+            name: "clock",
+            prefix: "fas",
+            label: "Clock"
+          },
+          shadow: {
+            size: 0
+          }
+        },
+        name: {
+          show: true,
+          text: "Clockify",
+          size: 0.9
+        }
+      },
+      url: "https://clockify.me/login",
+      accent: {
+        by: "theme",
+        hsl: {
+          h: 0,
+          s: 0,
+          l: 0
+        },
+        rgb: {
+          r: 0,
+          g: 0,
+          b: 0
+        }
+      },
+      color: {
+        by: "theme",
+        hsl: {
+          h: 0,
+          s: 0,
+          l: 0
+        },
+        rgb: {
+          r: 0,
+          g: 0,
+          b: 0
+        },
+        opacity: 1
+      },
+      image: {
+        url: "",
+        opacity: 1
+      },
+      wide: false,
+      tall: false,
+      searchMatch: false,
+      timeStamp: 1546453107633
     }, { 
       display: {
         direction: "vertical",
