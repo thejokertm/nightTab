@@ -8,7 +8,7 @@ var bookmarks = (function() {
       show: true
     },
     openAll: {
-      show: true
+      show: false
     },
     items: [{
       display: {
@@ -535,7 +535,7 @@ var bookmarks = (function() {
       show: true
     },
     openAll: {
-      show: true
+      show: false
     },
     items: [{
       display: {
@@ -988,7 +988,7 @@ var bookmarks = (function() {
       show: true
     },
     openAll: {
-      show: true
+      show: false
     },
     items: [{
       display: {
